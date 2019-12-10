@@ -1,3 +1,3 @@
-def meal_choice(veggie, carbs, protein = 'meat')
-  puts "A plate of #{protein} with #{veggie} and #{carbs}."
+def meal_choice(veg1, veg2, protein = 'meat')
+  puts "A plate of #{protein} with #{veg1} and #{veg2}."
 end
